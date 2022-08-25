@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @varunchepuru
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m varunchepuru
+- 👀 I’m interested in cloud enginering
+- 🌱 I’m currently learning devops with aws
+- 💞️ I’m looking to collaborate on learning and practice
+- 📫 you can reach me throug varunchepuru@gmail.com
+please let me know the from where to start
 
 <!---
 varunchepuru/varunchepuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
